@@ -1,5 +1,3 @@
-Here's the markdown table with the team members as requested:
-
 # Flask Signup App (with MySQL Database) - Web Application Development Mid Semester Assessment  
 
 This is a simple Flask web application that teaches beginners how a real web app works.  
@@ -44,3 +42,4 @@ flask-signup-app/
 Kindly Click the Link Below to See the Full Project's code on github. Because of the limitations of the LMS, we are not able to upload the codes here.
 
 ### Project's Github Repo Link: https://github.com/BrightDaniel/CSC312-g
+
