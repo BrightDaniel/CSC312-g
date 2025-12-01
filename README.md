@@ -1,5 +1,5 @@
 
-# Flask Signup App (with MySQL Database)
+# Flask Signup App (with MySQL Database)  - Web Application Development Mid Semsester Assessment  
 
 This is a simple Flask web application that teaches beginners how a real web app works.  
 It contains:
@@ -30,7 +30,7 @@ flask-signup-app/
 
 ````
 
-Team Members:
+## Team Members:
 
 Bright Oghor
 2023/C/SENG/0367
@@ -51,3 +51,10 @@ Akanbi Afees Oluwadamilare
 John Excellence Adejo 
 2023/B/SENG/0251
 30060347
+
+
+## Link To Project
+
+Kindly Click the Link Below to See the Full Project's code on github. Because of the limitations of the LMS, we are not able to upload the codes here.
+
+### Project's Github Repo Link: https://github.com/BrightDaniel/CSC312-g
